@@ -1,4 +1,4 @@
-# Full Office Productivity June 2025
+# Full Office Productivity
 
 This module is designed for individuals who are new to using computers or want to build confidence in basic digital skills. It provides a practical, hands-on introduction to using office tools for everyday and professional tasks.
 
